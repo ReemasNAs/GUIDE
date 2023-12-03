@@ -46,10 +46,14 @@ nav ul {
 @media (max-width:767px){
     nav ul { width: 100%; }
     nav ul li { font-size: 8px;}
+    .text {
+        margin-top: 100px !important;
+    }
 }
 @media (min-width:767px) and (max-width:991px){
     nav ul { width: 80% !important; }
     nav ul li { font-size: 8px;}
+
 }
 @media (min-width:992px){
     nav ul { 
